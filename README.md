@@ -1,7 +1,7 @@
 ## BOB'S BURGER
 ![Screenshot of Bob's BUrger](./back/public/img/Screenshot.png)
 
-### Intall Node packages
+### Install Node packages
 Execute the command `npm install`  both on the back directory (/back) and front directory (/front).
 
 ### Create Database
